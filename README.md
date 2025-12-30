@@ -4,6 +4,9 @@
 * Ensure your use of these streams complies with the terms of service of the respective platforms and any applicable laws in your region.
 * The EPG data is also provided by the upstream sources and its accuracy is not guaranteed.
 
+# VPN
+I do suggest to use a VPN if legal in your area to protect your personal info when using anyone's files. 
+
 # Hosting
 If you would like your file hosted DM me and we can chat about hosting it here as well as on my other locations. 
 
