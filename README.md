@@ -29,4 +29,4 @@ Samsung TV USA
 https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/us.xml.gz
 
 # Thanks
-I'd like to thank you and those who have also curated some of the files as well as those who have taught me how to do this. 
+A huge thank you to everyone who helped curate these files, and to the teachers who took the time to show me the ropes. I couldn't have done this without you.
